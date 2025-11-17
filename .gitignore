@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 
 # Python-generated files
+.env
 __pycache__/
 *.py[oc]
 build/
